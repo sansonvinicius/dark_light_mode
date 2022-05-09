@@ -1,6 +1,6 @@
-# Projeto dark_light_mode </n>
+# Atividade dark_light_mode </n>
 
-Projeto desenvolvido para o curso Spread FullStack Developer, para praticar manipulação do DOM com JavaScripr.
+Atividade desenvolvida para o curso Spread FullStack Developer, para praticar manipulação do DOM com JavaScripr.
 Nesse projeto, ao clicar no botão o tema da página é alterado de acordo com o tema atual.
 
 
